@@ -7,3 +7,12 @@ Without getting into the biggest philosophical question, I am Mengsen Zhang, cur
 Before that, I studied Pharmarceutical Science and Psychology as an undergrad, then Criminology as a Master student. Through this journey across the scales, I have looked at humans as molecular machines, cognitive processes, and constituents of a social organism, which at the end had led me to Complexity Science.
 
 ### Current research
+#### Multiagent social coordination - experiment and model
+I have developped a new experimental paradigm to study the coordination dynamics among eight humans. 
+#### Human-Virtual Partner interaction
+I studied emotional and neural activities (EEG, fMRI)in humans during their coordination with a virtual partner. 
+
+### Other passion projects
+#### CUDA programming
+#### Topology
+#### Pattern formation
