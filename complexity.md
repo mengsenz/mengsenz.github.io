@@ -14,5 +14,7 @@ This is almost a research statement. What is justice and injustice of a complex 
 
 In other words, a complex global structure can be achieved by simple local principles - do what you got to do. Now in all honesty, Plato's "justice" is not really about the "complex" part of a complex system - it's about the "a" part. Before getting into whether something is complex, you have to make sure you are talking about *one* thing. It is perhaps at the heart of Complexity Science to figure out **how many things can be *one*, without becoming *simple***. Nevertheless, Plato's "justice" may imply complexity if diversity in individuals' nature is assumed.     
 
-With this being a constant source of wonder, I simply want to take things a bit more formally by scientific means.
+With this being a constant source of wonder, I simply want to take things a bit more formally via scientific means. 
+
+I need first a proper language to characterize complex structures (or spatiotemporal patterns), then to figure out how this (now formally represented) structure serves the system as a whole (the "one"), and eventually how to get there (path of evolution). More or less, I'm at the first stage, which turned out to be non-trivial. It is one thing to come up with some functional that can map any complex structure to an scaler and call it a "measure of complexity" (or other fancy concepts of your choice), but it is entirely another thing to really describe that structure. If there is an organism whose survival depends on solving various complex problems on a daily basis, it is insufficient for the organism to just match the *level* of complexity (or other fancy measures) without matching the *structural* of behavior to the problem. 
  
