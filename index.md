@@ -1,4 +1,3 @@
-### Some quick links
 [Publications](/pubs.md) | [CV](/docs/cv_Mengsen_20180414.pdf) | [Google Scholar](https://scholar.google.com/citations?user=YfVxfjMAAAAJ&hl=en) | [Current Lab](http://www.ccs.fau.edu/hbbl3/) | [ResearchGate](https://www.researchgate.net/profile/Mengsen_Zhang) | [Twitter](https://twitter.com/Mengsen) 
 
 ## Who am I
