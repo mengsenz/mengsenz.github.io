@@ -12,7 +12,7 @@ This is almost a research statement. What is justice and injustice of a complex 
 
 > "\[...\] each of the other citizens is to be directed to what he is naturally suited for, so that, doing the one work that is his own, he will become not many but one, and the whole city will itself be naturally one not many. \[...\] Then it turns out that this doing one's own work - provided that it comes to be in a certain way - is justice." (Republic, 423d-433b)
 
-In other words, a complex global structure can be achieved by simple local principles - do what you got to do. Now in all honesty, Plato's "justice" is not really about the "complex" part of a complex system - it's about the "a" part. Before getting into whether something is complex, you have to make sure you are talking about *one* thing. It is perhaps at the heart of Complexity Science to figure out how many things can be **one**, without becoming **simple**.     
+In other words, a complex global structure can be achieved by simple local principles - do what you got to do. Now in all honesty, Plato's "justice" is not really about the "complex" part of a complex system - it's about the "a" part. Before getting into whether something is complex, you have to make sure you are talking about *one* thing. It is perhaps at the heart of Complexity Science to figure out **how many things can be *one*, without becoming *simple***. Nevertheless, Plato's "justice" may imply complexity if diversity in individuals' nature is assumed.     
 
 With this being a constant source of wonder, I simply want to take things a bit more formally by scientific means.
  
