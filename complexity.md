@@ -17,4 +17,6 @@ In other words, a complex global structure can be achieved by simple local princ
 With this being a constant source of wonder, I simply want to take things a bit more formally via scientific means. 
 
 I need first a proper language to characterize complex structures (or spatiotemporal patterns), then to figure out how this (now formally represented) structure serves the system as a whole (the "one"), and eventually how to get there (path of evolution). More or less, I'm at the first stage, which turned out to be non-trivial. It is one thing to come up with some functional that can map any complex structure to an scaler and call it a "measure of complexity" (or other fancy concepts of your choice), but it is entirely another thing to really describe that structure. If there is an organism whose survival depends on solving various complex problems on a daily basis, it is insufficient for the organism to just match the *level* of complexity (or other fancy measures) without matching the *structural* of behavior to the problem. Thus I am working towards a meaningful way of descripting structures (topological? geometrical?) of complex behavior, and hopefully soon got to systematically study how these structures are organized in biological and social systems.
+
+And of course, only then I may know what is justice in complex systems. ;-)
  
