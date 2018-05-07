@@ -8,8 +8,11 @@ I'm certainly not the first person who felt that way. Plato (or Socrates) made a
 
 > "\[...\] lacking keen eyesight, we were told to read small letters from a distance and then noticed that the same letters existed elsewhere in a larger size and on a larger surface. We'd consider it a godsend, I think, to be allowed to read the larger ones first and then to examine the smaller ones, to see whether they really are the same. \[...\] there is the justice of a single man and also the justice of a whole city \[...] and a city is larger than a single man \[...\]. Perhaps, then, there is more justice in the larger thing, and it will be easier to learn what it is. So, if you're willing, let's first find out what sort of thing justice is in a city and afterwards look for it in the individual, observing the ways in which the smaller is similar to the larger." (Republic, 368-369)
 
-This is almost a research statement. What is justice and injustice of complex adaptive system then? 
+This is almost a research statement. What is justice and injustice of a complex system then? 
 
 > "\[...\] each of the other citizens is to be directed to what he is naturally suited for, so that, doing the one work that is his own, he will become not many but one, and the whole city will itself be naturally one not many. \[...\] Then it turns out that this doing one's own work - provided that it comes to be in a certain way - is justice." (Republic, 423d-433b)
 
-With this being a source of wonder, I simply want a more formal argument that can be backed up by a systematic examination of natural systems. 
+In other words, a complex global structure can be achieved by simple local principles - do what you got to do. Now in all honesty, Plato's "justice" is not really about the "complex" part of a complex system - it's about the "a" part. Before getting into whether something is complex, you have to make sure you are talking about *one* thing. It is perhaps at the heart of Complexity Science to figure out how many things can be **one**, without becoming **simple**.     
+
+With this being a constant source of wonder, I simply want to take things a bit more formally by scientific means.
+ 
