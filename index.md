@@ -27,7 +27,7 @@ I first used it to study how emotional arousal (measured by skin potential respo
 
 ## Other passion projects
 ### Low-cost engineering for real-time experiments
-Since I studies dynamic patterns, 
+Since I studies dynamic patterns, the real-timeness of experimental equipments are essential, especially when there is a closed-loop component (for which long latency may change coordination patterns qualitatively). When the design of the behavioral paradigm gets a bit novel, proprietary hardwares becomes really cumbersome and in some cases cannot at all satisfy the needs of the experimenter (e.g. the "Human Firefly" experiment mentioned above). 
 ### CUDA programming
 ### Topology
 ### Pattern formation
