@@ -27,7 +27,7 @@ I first used it to study how emotional arousal (measured by skin potential respo
 
 ## Other passion projects
 ### Low-cost engineering for real-time experiments
-Since I studies dynamic patterns, the real-timeness of experimental equipments are essential, especially when there is a closed-loop component (for which long latency may change coordination patterns qualitatively). When the design of the behavioral paradigm gets a bit novel, proprietary hardwares becomes really cumbersome and in some cases cannot at all satisfy the needs of the experimenter (e.g. the "Human Firefly" experiment mentioned above). 
+Since I studies dynamic patterns, the real-timeness of experimental equipments are essential, especially when there is a closed-loop component (for which long latency may change coordination patterns qualitatively). When the design of the behavioral paradigm gets a bit novel, proprietary hardwares becomes really cumbersome and in some cases cannot at all satisfy the needs of the experimenter (e.g. for the "Human Firefly" experiment mentioned above). After a brief initial skepticism, I fell rapidly in love with open hardwares, which includes Arduinos (microcontrollers) and open source sensors. They gave me highly flexible control of real-time signal processing at an extremely low cost (comparing to, say, something from the National Instrument), along with accessible schematics so that you can modify the design of circuit boards for the need of a particular experiment. 
 ### CUDA programming
 ### Topology
 ### Pattern formation
