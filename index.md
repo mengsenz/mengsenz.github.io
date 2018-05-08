@@ -15,7 +15,7 @@ We have recently published a paper ([here](https://doi.org/10.1371/journal.pone.
 
 Following the experiment, we have developped a mathematical model which successfully captured these key observations. The model also provided dynamic explanations for some of the statistical features in the experimental data. More importantly, it connects small-scale and large-scale theories of coordination. The manuscript is in preparation and will soon be submitted. 
 
-Align the way, I have also done some exploratory work on how to find phase transitions in coordination patterns in, for a start, eight-person coordination. This is when I came across Computational Topology (homology in particular), which later led to the discovery of a transition between to isomorphic graphs in the figure above (A1 to A2 to A3).   
+Align the way, I have also done some exploratory work on how to find phase transitions in coordination patterns in, for a start, eight-person coordination. This is when I came across Computational Topology (homology in particular), which later led to the discovery of a transition between isomorphic graphs in the figure above (A1 to A2 to A3, corresponding to graphs in D). Some proof-of-concept work is to be organized into a paper or report.   
 
 ### Human-Virtual Partner interaction
 
