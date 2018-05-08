@@ -6,7 +6,7 @@ Without getting into the biggest philosophical question, I am Mengsen Zhang, cur
 ## Current research
 During Ph.D training, I have been studying human social coordination at the level of physiology, neural dynamics and social groups, both experimentally and theoretically. Overall, my work follows two themes:
 ### Multiagent social coordination - experiment and model
-I have developped a new experimental paradigm to study the coordination dynamics among eight humans. 
+A lot the works on coordination phenomena focus on either systems of very few components (often 2) or very many component (better to be infinite). The in-between was somewhat neglected. To understand coordination dynamics across scales, I felt necessary to bridge this gap between the very few and very many by studying the middle. I have developped a new experimental paradigm to study the coordination dynamics among eight humans. I designed and built an apparatus allowing people to coordinate rhythmic tapping in a controlled environment - it allows me to manipulate network connectivity in real time, and manipulate their tapping frequency with metronomes. We have recently published a paper ([here](https://doi.org/10.1371/journal.pone.0193843)) about the first experiment using this paradigm, dubbed the "Human Firefly" experiment (become people's taps were displayed as flashes of LEDs, which looked like glowing fireflies in the dark).
 ### Human-Virtual Partner interaction
 I studied emotional and neural activities (EEG, fMRI)in humans during their coordination with a virtual partner. 
 
