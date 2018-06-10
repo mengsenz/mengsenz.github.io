@@ -17,4 +17,4 @@
 * Mengsen Zhang, Craig Nordham, and J. A. Scott Kelso (2015). **Deterministic versus probabilistic causality in the brain: to cut or not to cut**. *Physics of Life Review*, 15: 136-138. [DOI](http://dx.doi.org/10.1016/j.plrev.2015.10.002)
 
 ### In the making
-* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (in prep). **From two to infinity: an experiment-based model of coordination across scales**.
+* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*submitted*). **From two to infinity: an experiment-based model of coordination across scales**.
