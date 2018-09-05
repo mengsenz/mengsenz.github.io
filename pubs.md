@@ -10,7 +10,8 @@
 > We studied emotional arousal (using SPR) of people while they were coordinating with a virtrual partner (VP). This was based on a new paradigm named the Human Dynamic Clamp (here's a [paper](https://doi.org/10.1073/pnas.1407486111)), allowing a person to coordinate his/her movement with a mathematical model of social coordination. 
 
 ### In the making
-* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*submitted*). **From two to infinity: an experiment-based model of coordination across scales**.
+* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*In review*). **Connecting coordination across scales**. 
+[a theoretical model of coordination across scales based on the Human Firefly experiment above.]
 
 ### Other Publications
 * Emmanuelle Tognoli, Mengsen Zhang, and J. A. Scott Kelso (2018). **On the Nature of Coordination in Nature**. *Advances in Cognitive Neurodynamics VI* (Ed. JM Delgado-Garcia). 
