@@ -2,7 +2,7 @@
 
 Mengsen Zhang
 ---
-zhang@ccs.fau.edu  |  mzhang2013@fau.edu
+mzhang2013@fau.edu
 
 Complex Systems (BS-12)  
 Florida Atlantic University  
