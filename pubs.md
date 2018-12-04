@@ -1,4 +1,5 @@
 [Back to main page](index.md) 
+# Publications
 
 ### Multiagent Coordination Dynamics
 * Mengsen Zhang, J. A. Scott Kelso, Emmanuelle Tognoli (2018). **Critical diversity: Divided or united states of social coordination**. *PLOS ONE* 13(4): e0193843. 
