@@ -5,8 +5,9 @@
 [Full Text on PloS](https://doi.org/10.1371/journal.pone.0193843) | [pdf](/docs/ZhangEtal_2018_Firefly_wSI.pdf)  
 > We did an experiment dubbed the "Human Firefly" experiment, to study how 8 people coordinate their rhythmic behavior together (but it's not really about the number eight - it's about connecting coordination phenomena at small and large scales). We made an [apparatus](/pics/ff_apparatus.png) to let people interact via touchpads and LED arrays while we can systematically manipulate network connectivity and diverisity in movement tempo. Theoretical sequals of this work are coming up.
 
-* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*In review*). **Connecting empirical phenomena and theoretical models of biological coordination across scales**. [arXiv:1812.00423](https://arxiv.org/abs/1812.00423)
-[a theoretical model of coordination across scales based on the Human Firefly experiment above.]
+* Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*In review*). **Connecting empirical phenomena and theoretical models of biological coordination across scales**. 
+[arXiv:1812.00423](https://arxiv.org/abs/1812.00423)
+> A theoretical model of coordination captures empirically observed coordinative behavior at multiple levels of description, based on data from the Human Firefly experiment above.
 
 ### Human Dynamic Clamp (HDC) and Human-Virtural Parter Interaction (VPI)
 * Guillaume Dumas, Aline Lefebvre, Mengsen Zhang, Emmanuelle Tognoli, and J.A. Scott Kelso (2018). **The Human Dynamic Clamp: a probe for Coordination across Neural, Behavioral, and Social Scales**. In: Müller S., Plath P., Radons G., Fuchs A. (eds). *Complexity and Synergetics* (Springer, Cham). 
