@@ -15,7 +15,7 @@
 [DOI](https://doi.org/10.1007/978-3-319-64334-2_24) | [pdf](/docs/DumasEtal_2018_CNS.pdf)
 
 * Mengsen Zhang, Guillaume Dumas, J. A. Scott Kelso, and Emmanuelle Tognoli. (2016). **Enhanced emotional responses during social coordination with a virtual partner**. *International Journal of Psychophysiology*, 104, 33-43. 
-[DOI](http://dx.doi.org/10.1016/j.ijpsycho.2016.04.001) | [pdf](/docs/Zhang_2016_emotionVPI_final.pdf)  
+[DOI](http://dx.doi.org/10.1016/j.ijpsycho.2016.04.001) | [pdf](/docs/Zhang_2016_emotionVPI_final.pdf)
 > We studied emotional arousal (using SPR) of people while they were coordinating with a virtrual partner (VP). This was based on a new paradigm named the Human Dynamic Clamp (here's a [paper](https://doi.org/10.1073/pnas.1407486111)), allowing a person to coordinate his/her movement with a mathematical model of social coordination. 
 
 ### Other Publications
