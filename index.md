@@ -1,7 +1,7 @@
 [Publications](/pubs.md) | [CV](/docs/cv_Mengsen_20181027.pdf) | [Google Scholar](https://scholar.google.com/citations?user=YfVxfjMAAAAJ&hl=en) | [Lab](http://www.ccs.fau.edu/hbbl3/) | [ResearchGate](https://www.researchgate.net/profile/Mengsen_Zhang) | [Twitter](https://twitter.com/Mengsen) | [Contact](contact.md)
 
 ## Who am I
-Without getting into the biggest philosophical question, I am Mengsen Zhang, a student in the Center for Complex Systems and Brain Sciences at Florida Atlantic University, under the mentorship of Drs. Emmanuelle Tognoli and J. A. Scott Kelso. I have just successfully defended my doctoral dissertation in October, 2018. I'm interested in how coordination patterns form and change in biological and social systems on multiple spatiotemporal scales. (...more: [Why Complexity](/complexity.md))
+Without getting into the biggest philosophical question, I am Mengsen Zhang. I have just received my doctoral degree from the Center for Complex Systems and Brain Sciences at Florida Atlantic University, under the mentorship of Drs. Emmanuelle Tognoli and J. A. Scott Kelso. I am currently wrapping up my doctoral work before starting a postdoctoral appointment at Stanford University. My long-term interest is to understand how coordination patterns form and change in biological and social systems on multiple spatiotemporal scales. (...more: [Why Complexity](/complexity.md))
 
 ## Current research
 During Ph.D training, I have been studying human social coordination at the level of physiology, neural dynamics and social groups, both experimentally and theoretically. Overall, my work follows two themes:
