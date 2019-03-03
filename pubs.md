@@ -7,7 +7,7 @@ This section addresses my main interest in how multiple components can form comp
 * Mengsen Zhang (2018). **The Coordination Dynamics of Multiple Agents**. Doctoral Dissertation, Florida Atlantic University. 
 [ProQuest Open Access](https://pqdtopen.proquest.com/pubnum/10979968.html)
 
-which also break down into three individual papers:
+which also breaks down into three individual papers:
 
 * Mengsen Zhang, J. A. Scott Kelso, Emmanuelle Tognoli (2018). **Critical diversity: Divided or united states of social coordination**. *PLOS ONE* 13(4): e0193843. 
 [Full Text on PloS](https://doi.org/10.1371/journal.pone.0193843) | [pdf](/docs/ZhangEtal_2018_Firefly_wSI.pdf)  
