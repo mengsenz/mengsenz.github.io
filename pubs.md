@@ -2,6 +2,13 @@
 # Publications
 
 ### Multiagent Coordination Dynamics
+This section addresses my main interest in how multiple components can form complex structure/dynamics on multiple levels/scales of description as discovered in natural complex adaptive systems (e.g. living, social systems). In my doctoral work, I took an empirically based approach to the problem: I designed and built an apparatus to study how multiple people (N=8) coordinate their movement in a highly controlled experimental environment, where I can independently and dynamically manipulate individuals' movement rate and the network connectivity between them. First, a human experiment was conducted, dubbed "the Human Firelfy Experiment", where coordination phenomena were studied on multiple levels of description - interpersonal, intragroup and intergroup level. Subsequently, I modeled the experimental observations at all levels of description with a single system of equations. Finally, I explored a new, topology based, approach to quantifying complex, multiscale dynamic patterns observed in the human experiment and the associated model. Together, I call them the Firefly Trilogy, which constitute my doctoral dissertation:
+
+* Mengsen Zhang (2018). **The Coordination Dynamics of Multiple Agents**. Doctoral Dissertation, Florida Atlantic University. 
+[ProQuest Open Access](https://pqdtopen.proquest.com/pubnum/10979968.html)
+
+which also break down into three individual papers:
+
 * Mengsen Zhang, J. A. Scott Kelso, Emmanuelle Tognoli (2018). **Critical diversity: Divided or united states of social coordination**. *PLOS ONE* 13(4): e0193843. 
 [Full Text on PloS](https://doi.org/10.1371/journal.pone.0193843) | [pdf](/docs/ZhangEtal_2018_Firefly_wSI.pdf)  
 > We did an experiment dubbed the "Human Firefly" experiment, to study how 8 people coordinate their rhythmic behavior together (but it's not really about the number eight - it's about connecting coordination phenomena at small and large scales). We made an [apparatus](/pics/ff_apparatus.png) to let people interact via touchpads and LED arrays while we can systematically manipulate network connectivity and diverisity in movement tempo. Theoretical sequals of this work are coming up.
@@ -9,6 +16,8 @@
 * Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (*In review*). **Connecting empirical phenomena and theoretical models of biological coordination across scales**. 
 [arXiv:1812.00423](https://arxiv.org/abs/1812.00423)
 > A theoretical model of coordination captures empirically observed coordinative behavior at multiple levels of description, based on data from the Human Firefly experiment above.
+
+* Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (*In prep*). **Multiscale topological portraits of complex collective dynamics"**. (*Preprint is coming soon... stay tuned...*)
 
 ### Human Dynamic Clamp (HDC) and Human-Virtural Parter Interaction (VPI)
 * Guillaume Dumas, Aline Lefebvre, Mengsen Zhang, Emmanuelle Tognoli, and J.A. Scott Kelso (2018). **The Human Dynamic Clamp: a probe for Coordination across Neural, Behavioral, and Social Scales**. In: Müller S., Plath P., Radons G., Fuchs A. (eds). *Complexity and Synergetics* (Springer, Cham). 
