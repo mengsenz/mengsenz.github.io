@@ -4,6 +4,7 @@ Mengsen Zhang
 ---
 mengsenz@stanford.edu
 
-401 Quarry Road
-Rm 1347
-Palo Alto, California 94304
+Brain Dynamics Lab,  
+401 Quarry Road,  
+Rm 1347,  
+Palo Alto, California 94304 
