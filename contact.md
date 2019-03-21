@@ -2,9 +2,8 @@
 
 Mengsen Zhang
 ---
-mzhang2013@fau.edu | zhang@ccs.fau.edu
+mengsenz@stanford.edu
 
-Complex Systems (BS-12)  
-Florida Atlantic University  
-777 Glades Road  
-Boca Raton, FL 33431  
+401 Quarry Road
+Rm 1347
+Palo Alto, California 94304
