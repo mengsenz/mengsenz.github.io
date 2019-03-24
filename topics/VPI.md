@@ -1,3 +1,5 @@
+[Back to main page](/)
+
 ### Human-Virtual Partner interaction
 
 I have conducted a series of experiments to look "within" the person during social coordination, using a recently developped paradigm named the Human Dynamic Clamp ([here](https://doi.org/10.1073/pnas.1407486111)). In the paradigm, a person coordinate his/her movement with a "Virtual Partner" (VP), whose movement is driven by a empirically grounded model of human coordination (Haken-Kelso-Bunz equations). The nice thing is that we can quantitatively set the boundary conditions of the dyadic coordination by choosing model parameters. 
