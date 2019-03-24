@@ -1,4 +1,4 @@
-[Back to main page](/index.md)
+[Back to main page](/)
 
 ### Multiagent social coordination
 A lot of works on coordination phenomena focus on either systems of very few (often 2) or very many component (better to be infinite). The in-between was somewhat neglected. To understand coordination dynamics across scales, I felt necessary to bridge this gap between the very few and very many by studying the middle. I have developped a new experimental paradigm (+ an aparatus) to study the coordination of rhythmic tapping among eight humans in a controlled environment - network connectivity and individuals' frequency of movement can be systematically manipulated. 
