@@ -14,7 +14,7 @@ which also breaks down into three individual papers:
 > The "Human Firefly" experiment.
 
 * Mengsen Zhang, Christopher Beetle, J. A. Scott Kelso, and Emmanuelle Tognoli (2019). **Connecting empirical phenomena and theoretical models of biological coordination across scales**. *Journal of the Royal Society Interface* 16: 20190360. 
-[Full text + SI](/docs/ZhangEtal2019_CoordinationAcrossScales_wSI.pdf)
+[Full text + SI](/docs/ZhangEtal2019_CoordinationAcrossScales_wSI.pdf) | [DOI](https://doi.org/10.1098/rsif.2019.0360) |
 [arXiv version](https://arxiv.org/abs/1812.00423)
 > The theoretical model derived from experimental observations in the Human Firefly experiment reported in Zhang, Kelso, Tognoli (2018).
 
