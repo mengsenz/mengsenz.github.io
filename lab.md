@@ -2,4 +2,4 @@
 
 I am currently a member of the [Brain Dynamics Lab](http://web.stanford.edu/group/bdl/) (Department of Psychiatry and Behavioral Sciences, Stanford Unversity). 
 
-I am in collaboration with members of the Human Brain and Behavior Laboratory (Center for Complex Systems and Brain Sciences, Florida Atlantic Unversity).
+I am in collaboration with members of the [Human Brain and Behavior Laboratory](http://www.ccs.fau.edu/hbbl3/) (Center for Complex Systems and Brain Sciences, Florida Atlantic Unversity).
