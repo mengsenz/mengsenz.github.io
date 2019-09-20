@@ -18,7 +18,7 @@ which also breaks down into three individual papers:
 [arXiv version](https://arxiv.org/abs/1812.00423)
 > The theoretical model derived from experimental observations in the Human Firefly experiment reported in Zhang, Kelso, Tognoli (2018).
 
-* Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (*In prep*). **Multiscale topological portraits of complex collective dynamics"**. (*Preprint is almost here... stay tuned...*)
+* Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (2019). **Topological portraits of multiscale coordination dynamics"**. [arXiv](https://arxiv.org/abs/1909.08809)
 > Methodological paper on a topological approach to complex coordination pattern with multiple characteristic spatiotemporal scales. The method was based on exploratory analyses of single-trial dynamics recorded in the Human Firefly experiment.
 
 ### Human Dynamic Clamp (HDC) and Human-Virtural Parter Interaction (VPI)
