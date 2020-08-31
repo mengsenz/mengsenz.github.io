@@ -6,6 +6,10 @@ My postdoctoral work involves developing large-scale biophysical network models 
 * Mengsen Zhang and Manish Saggar (2020). **Complexity of resting brain dynamics shaped by multiscale structural constraints**. 
 [bioRxiv](https://doi.org/10.1101/2020.05.14.097196)
 
+### Evolution of theoretical models and experimental paradigms of social coordination dynamics
+* Emmanuelle Tognoli, Mengsen Zhang, Armin Fuchs, Christopher Beetle, and J. A. Scott Kelso (2020). **Coordination Dynamics: A Foundation for Understanding Social Behavior**. *Frontiers in Human Neuroscience*, 14:317.
+[pdf](/docs/Tognoli2020_FoundationforSocialBehavior.pdf) | [DOI](https://www.frontiersin.org/article/10.3389/fnhum.2020.00317)
+
 ### Multiagent Coordination Dynamics
 How can multiple components form complex structure/dynamics on multiple levels/scales in natural complex adaptive systems (e.g. living, social systems)? In my doctoral work, I approached this problem by integrating empirical, theoretical, and methodological research, which I call the ***Human Firefly Trilogy***. The Triology is a series of three papers: 
 
@@ -19,14 +23,14 @@ How can multiple components form complex structure/dynamics on multiple levels/s
 > The theoretical model derived from experimental observations in the Human Firefly experiment reported in Zhang, Kelso, Tognoli (2018).
 
 * Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (2020). **Topological portraits of multiscale coordination dynamics"**. *Journal of Neuroscience Methods*, 339, 108672. 
-[pdf + SI](/docs/ZhangKKT2020_fireflyTDA_wSI.pdf) | [DOI](https://doi.org/10.1016/j.jneumeth.2020.108672) | [arXiv](https://arxiv.org/abs/1909.08809)
+[pdf + SI](/docs/ZhangKKT2020_fireflyTDA_wSI.pdf) | [DOI](https://doi.org/10.1016/j.jneumeth.2020.108672) | [arXiv](https://arxiv.org/abs/1909.08809) | [Code](https://github.com/mengsenz/TopoDynamics) | [Talk](https://crowdcast.io/e/neuromatch/8)
 > Methodological paper on a topological approach to complex coordination pattern with multiple characteristic spatiotemporal scales. The method was based on exploratory analyses of single-trial dynamics recorded in the Human Firefly experiment.
 
 Together, they make up my dissertation:
 
 * Mengsen Zhang (2018). **The Coordination Dynamics of Multiple Agents**. Doctoral Dissertation, Florida Atlantic University. 
 [pdf](/docs/Zhang_2018FAU_MultiagentCoordination.pdf) | 
-[ProQuest](https://pqdtopen.proquest.com/pubnum/10979968.html)
+[ProQuest](https://pqdtopen.proquest.com/pubnum/10979968.html) | [Talk](https://youtu.be/37jR5IN1x78)
 
 ### Human Dynamic Clamp (HDC) and Human-Virtural Parter Interaction (VPI)
 This group of studies investigate the neural and physiological changes in humans during social coordination with a "Virtual Partner" whose social coordinative behavior can be parameterically manipulated through modifying its governing equation. This was based on a new paradigm named the Human Dynamic Clamp (here's a [paper](https://doi.org/10.1073/pnas.1407486111)).
