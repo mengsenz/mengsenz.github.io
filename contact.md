@@ -8,4 +8,4 @@ Brain Dynamics Lab
 Department of Psychiatry and Behavioral Sciences  
 School of Medicine  
 Stanford University  
-401 Quarry Road, Palo Alto, California 94305 
+401 Quarry Road, Stanford, California 94304
