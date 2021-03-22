@@ -2,10 +2,8 @@
 
 Mengsen Zhang
 ---
-mengsenz@stanford.edu
+mengsen_zhang@med.unc.edu
 
-Brain Dynamics Lab  
-Department of Psychiatry and Behavioral Sciences  
-School of Medicine  
-Stanford University  
-401 Quarry Road, Stanford, California 94304
+Mary Ellen Jones Building
+116 Manning Drive 
+Chapel Hill, NC 27514
