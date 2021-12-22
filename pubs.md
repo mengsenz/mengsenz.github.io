@@ -2,11 +2,11 @@
 # Publications
 By topic:
 
-(Brain Stimulation)[#brain-stimulation-and-causal-roles-of-neural-oscillations] | 
-(Topology of large-scale brain dynamics)[#complexity-and-topology-of-neural-dynamics] |
-(Multiagent Coordination Dynamics)[#multiagent-coordination-dynamics] |
-(Human Dynamic Clamp)[#human-dynamic-clamp-hdc-and-human-virtual-partner-interaction-vpi] |
-(Other)[#other-publications]
+[Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
+[Topology of large-scale brain dynamics](#complexity-and-topology-of-neural-dynamics) |
+[Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
+[Human Dynamic Clamp](#human-dynamic-clamp-hdc-and-human-virtual-partner-interaction-vpi) |
+[Other](#other-publications)
 
 
 
