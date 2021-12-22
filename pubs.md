@@ -1,14 +1,34 @@
 [Back to main page](index.md) 
 # Publications
+By topic:
+
+(Brain Stimulation)[#brain-stimulation-and-causal-roles-of-neural-oscillations] | 
+(Topology of large-scale brain dynamics)[#complexity-and-topology-of-neural-dynamics] |
+(Multiagent Coordination Dynamics)[#multiagent-coordination-dynamics] |
+(Human Dynamic Clamp)[#human-dynamic-clamp-hdc-and-human-virtual-partner-interaction-vpi] |
+(Other)[#other-publications]
+
+
+
+### Brain stimulation and causal roles of neural oscillations
+My work at UNC-Chapel Hill focuses on understanding the causal roles of neural oscillations across multiple scales, from neuronal spiking to behavioral dynamics, using various brain stimulation techniques.
+
+Mengsen Zhang, Rachel Force, Christopher Walker, & Flavio Fröhlich (*To be submitted*). Transcranial alternating current stimulation enhances alpha power and connectivity in patients with auditory hallucination.
+
+Mengsen Zhang, Justin Riddle, & Flavio Fröhlich (*To be submitted*). Closed-loop control of bistable symptom states.
+
+Mengsen Zhang & Flavio Fröhlich (*Under review*). Cell type-specific excitability probed by optogenetic stimulation
+depends on the phase of the alpha oscillation.
+
 ### Complexity and topology of neural dynamics
 My work at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
 
-* Mengsen Zhang, Samir Chowdhury, and Manish Saggar (*in prep*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+* Mengsen Zhang, Samir Chowdhury, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
 
 * Mengsen Zhang and Manish Saggar (2020). **Complexity of resting brain dynamics shaped by multiscale structural constraints**. 
 [bioRxiv](https://doi.org/10.1101/2020.05.14.097196) | [talk](https://youtu.be/8HJ42Kg-fTc)
 
-### Evolution of theoretical models and experimental paradigms of social coordination dynamics
+### The history of social coordination dynamics -- experiments and theories
 * Emmanuelle Tognoli, Mengsen Zhang, Armin Fuchs, Christopher Beetle, and J. A. Scott Kelso (2020). **Coordination Dynamics: A Foundation for Understanding Social Behavior**. *Frontiers in Human Neuroscience*, 14:317.
 [pdf](/docs/Tognoli2020_FoundationforSocialBehavior.pdf) | [DOI](https://www.frontiersin.org/article/10.3389/fnhum.2020.00317)
 
@@ -33,6 +53,12 @@ Together, they make up my dissertation:
 * Mengsen Zhang (2018). **The Coordination Dynamics of Multiple Agents**. Doctoral Dissertation, Florida Atlantic University. 
 [pdf](/docs/Zhang_2018FAU_MultiagentCoordination.pdf) | 
 [ProQuest](https://pqdtopen.proquest.com/pubnum/10979968.html) | [Talk](https://youtu.be/37jR5IN1x78)
+
+More recent theoretical developments:
+
+* Joseph McKinley, Mengsen Zhang, Alice Wead, Christine Williams, Emmanuelle Tognoli, & Christopher Beetle (2021). Third party stabilization of unstable coordination in systems of coupled oscillators. Journal of Physics: Conference Series, 2090(1), 012167. 
+[DOI](https://doi.org/10.1088/1742-6596/2090/1/012167)
+
 
 ### Human Dynamic Clamp (HDC) and Human-Virtual Partner Interaction (VPI)
 This group of studies investigates the neural and physiological changes in humans during social coordination with a "Virtual Partner" whose social coordinative behavior can be parametrically manipulated through modifying its governing equation. This was based on a new paradigm named the Human Dynamic Clamp (here's a [paper](https://doi.org/10.1073/pnas.1407486111)).
