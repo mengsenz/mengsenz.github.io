@@ -4,7 +4,7 @@ By topic:
 
 | [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
 
-| [Topology of large-scale brain dynamics](#complexity-and-topology-of-neural-dynamics) |
+| [Geometry and Topology of Large-scale Brain Dynamics](#complexity-and-topology-of-neural-dynamics) |
 
 | [Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
 
@@ -30,10 +30,6 @@ My work at Stanford University involves developing large-scale biophysical netwo
 
 * Mengsen Zhang and Manish Saggar (2020). **Complexity of resting brain dynamics shaped by multiscale structural constraints**. 
 [bioRxiv](https://doi.org/10.1101/2020.05.14.097196) | [talk](https://youtu.be/8HJ42Kg-fTc)
-
-### The history of social coordination dynamics -- experiments and theories
-* Emmanuelle Tognoli, Mengsen Zhang, Armin Fuchs, Christopher Beetle, and J. A. Scott Kelso (2020). **Coordination Dynamics: A Foundation for Understanding Social Behavior**. *Frontiers in Human Neuroscience*, 14:317.
-[pdf](/docs/Tognoli2020_FoundationforSocialBehavior.pdf) | [DOI](https://www.frontiersin.org/article/10.3389/fnhum.2020.00317)
 
 ### Multiagent Coordination Dynamics
 How can multiple components form complex structure/dynamics on multiple levels/scales in natural complex adaptive systems (e.g., living, social systems)? In my doctoral work, I approached this problem by integrating empirical, theoretical, and methodological research, which I call the ***Human Firefly Trilogy***. The Trilogy is a series of three papers: 
@@ -61,6 +57,11 @@ More recent theoretical developments:
 
 * Joseph McKinley, Mengsen Zhang, Alice Wead, Christine Williams, Emmanuelle Tognoli, & Christopher Beetle (2021). Third party stabilization of unstable coordination in systems of coupled oscillators. Journal of Physics: Conference Series, 2090(1), 012167. 
 [DOI](https://doi.org/10.1088/1742-6596/2090/1/012167)
+
+A historical review:
+
+* Emmanuelle Tognoli, Mengsen Zhang, Armin Fuchs, Christopher Beetle, and J. A. Scott Kelso (2020). **Coordination Dynamics: A Foundation for Understanding Social Behavior**. *Frontiers in Human Neuroscience*, 14:317.
+[pdf](/docs/Tognoli2020_FoundationforSocialBehavior.pdf) | [DOI](https://www.frontiersin.org/article/10.3389/fnhum.2020.00317)
 
 
 ### Human Dynamic Clamp (HDC) and Human-Virtual Partner Interaction (VPI)
