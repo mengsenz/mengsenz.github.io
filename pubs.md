@@ -4,7 +4,7 @@ By topic:
 
 | [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
 
-| [Geometry and Topology of Large-scale Brain Dynamics](#complexity-and-topology-of-neural-dynamics) |
+| [Geometry and Topology of Large-Scale Brain Dynamics](#complexity-and-topology-of-neural-dynamics) |
 
 | [Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
 
