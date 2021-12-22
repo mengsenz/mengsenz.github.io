@@ -2,23 +2,26 @@
 # Publications
 By topic:
 
-[Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
-[Topology of large-scale brain dynamics](#complexity-and-topology-of-neural-dynamics) |
-[Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
-[Human Dynamic Clamp](#human-dynamic-clamp-hdc-and-human-virtual-partner-interaction-vpi) |
-[Other](#other-publications)
+| [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
+
+| [Topology of large-scale brain dynamics](#complexity-and-topology-of-neural-dynamics) |
+
+| [Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
+
+| [Human Dynamic Clamp](#human-dynamic-clamp-hdc-and-human-virtual-partner-interaction-vpi) |
+
+| [Other](#other-publications) |
 
 
 
 ### Brain stimulation and causal roles of neural oscillations
 My work at UNC-Chapel Hill focuses on understanding the causal roles of neural oscillations across multiple scales, from neuronal spiking to behavioral dynamics, using various brain stimulation techniques.
 
-Mengsen Zhang, Rachel Force, Christopher Walker, & Flavio Fröhlich (*To be submitted*). Transcranial alternating current stimulation enhances alpha power and connectivity in patients with auditory hallucination.
+* Mengsen Zhang, Rachel Force, Christopher Walker, & Flavio Fröhlich (*To be submitted*). **Transcranial alternating current stimulation enhances alpha power and connectivity in patients with auditory hallucination.**
 
-Mengsen Zhang, Justin Riddle, & Flavio Fröhlich (*To be submitted*). Closed-loop control of bistable symptom states.
+* Mengsen Zhang, Justin Riddle, & Flavio Fröhlich (*To be submitted*). **Closed-loop control of bistable symptom states.**
 
-Mengsen Zhang & Flavio Fröhlich (*Under review*). Cell type-specific excitability probed by optogenetic stimulation
-depends on the phase of the alpha oscillation.
+* Mengsen Zhang & Flavio Fröhlich (*Under review*). **Cell type-specific excitability probed by optogenetic stimulation depends on the phase of the alpha oscillation.**
 
 ### Complexity and topology of neural dynamics
 My work at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
