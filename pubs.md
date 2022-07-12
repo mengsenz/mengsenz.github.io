@@ -1,10 +1,10 @@
 [Back to main page](index.md) 
 # Publications
-By topic:
+Publications are here organized by __topic__. See [CV](/docs/MengsenZhang_CV.pdf) for a chronological list. 
 
 | [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
 
-| [Geometry and Topology of Large-Scale Brain Dynamics](#complexity-and-topology-of-neural-dynamics) |
+| [Geometry and Topology of Large-Scale Brain Dynamics](#geometry-and-topology-of-neural-dynamics) |
 
 | [Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
 
@@ -12,24 +12,44 @@ By topic:
 
 | [Other](#other-publications) |
 
-
+&dagger : co-first author
+&Dagger : co-last author
 
 ### Brain stimulation and causal roles of neural oscillations
-My work at UNC-Chapel Hill focuses on understanding the causal roles of neural oscillations across multiple scales, from neuronal spiking to behavioral dynamics, using various brain stimulation techniques.
+My work at UNC-Chapel Hill focuses on understanding the causal roles of neural oscillations across multiple scales, from neuronal spiking to behavioral dynamics, using various brain stimulation and computational techniques.
 
-* Mengsen Zhang, Rachel Force, Christopher Walker, & Flavio Fröhlich (*To be submitted*). **Transcranial alternating current stimulation enhances alpha power and connectivity in patients with auditory hallucination.**
+* Mengsen Zhang, Justin Riddle, & Flavio Fröhlich (2022). **Closed-loop control of bistable symptom states.** *Brain Stimulation*,
+15(2), 454-456. 
+[pdf](/docs/Zhang2022_bistablesymptom.pdf) | [DOI](https://doi.org/10.1016/j.brs.2022.02.010)
+> My first work conceptualizing the treatment of major depressive disorder using closed-loop deep brain stimulation as a control problem for multistable nonlinear dynamical systems.
 
-* Mengsen Zhang, Justin Riddle, & Flavio Fröhlich (*To be submitted*). **Closed-loop control of bistable symptom states.**
+* Mengsen Zhang & Flavio Fröhlich (2022). **Cell type-specific excitability probed by optogenetic stimulation depends on the phase of the alpha oscillation.** Brain Stimulation, 15(2), 472-482. 
+[pdf](/docs/Zhang2022_randomalpha.pdf) | [DOI](https://doi.org/10.1016/j.brs.2022.02.014)
+> My first animal work (ferrets), using optogenetic stimulation to understand how alpha oscillations control cortical excitability -- a long-standing question in human non-invasive brain stimulation literature, for which this paper provides the cellular mechanism. 
 
-* Mengsen Zhang & Flavio Fröhlich (*Under review*). **Cell type-specific excitability probed by optogenetic stimulation depends on the phase of the alpha oscillation.**
+* Mengsen Zhang, Rachel Force, Christopher Walker, Sangtae Ahn, L Fredrik Jarskog & Flavio Fröhlich (*Under Review*). **Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial.**
+> My first clinical-trial paper showing how rhythmic alpha stimulation can be used to treat depressive symptom transdiagnostically. 
 
-### Complexity and topology of neural dynamics
-My work at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
+* Lauren Sidelinger&dagger, Mengsen Zhang&dagger, Flavio Frohlich&Dagger, & Stacey Daughters&Dagger. **Day-to-Day individual alpha frequency stability measured by a mobile EEG device relates to anxiety and inhibition**.
+> First paper by an undergraduate mentee (L.S.), associating the dynamics of individual alpha frequency with anxiety. Innovative work using mobile EEG device. 
 
-* Mengsen Zhang, Samir Chowdhury, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+### The geometry and topology of neural dynamics
+My work and continued collaboration at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
+
+* Mengsen Zhang&dagger, Samir Chowdhury&dagger, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+> A Mapper-inspired computational method to capture phase transitions in biophysical network models of and real human fMRI dynamics. This method differs from earlier Mapper-based topological data analysis methods by taking advantage of temporal information. 
+
+* Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function
+relationship in the brain**. *NeuroImage* 259(119401). 
+[pdf+SI](/docs/Zhang_2022_W3C_full) | [DOI](https://doi.org/10.1016/j.neuroimage.2022.119401) | [talk](https://youtu.be/8HJ42Kg-fTc)
+> A novel computational framework for characterizing brain dynamics as landmarks (attractors) of a multistable dynamic landscape. We show the relation between attractors better capture human brain functional connectivity patterns than any specific attractor. 
 
 * Mengsen Zhang and Manish Saggar (2020). **Complexity of resting brain dynamics shaped by multiscale structural constraints**. 
-[bioRxiv](https://doi.org/10.1101/2020.05.14.097196) | [talk](https://youtu.be/8HJ42Kg-fTc)
+[pdf + SI](/docs/Zhang_2020biorxiv_W3C) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.14.097196v2?versioned=true) 
+> An earlier draft of Zhang, Sun & Saggar (2022) that may be read as a stand-alone theoretical paper, analyzing how the distribution of attractors is affected by various structural parameters. 
+
+* Yinming Sun, Mengsen Zhang, & Manish Saggar (*in prep*). Biophysical modeling of resting-state functional connectivity reveals insights into symptoms of psychopathology.
+> A follow up work of Zhang, Sun & Saggar (2022) with clinical applications. 
 
 ### Multiagent Coordination Dynamics
 How can multiple components form complex structure/dynamics on multiple levels/scales in natural complex adaptive systems (e.g., living, social systems)? In my doctoral work, I approached this problem by integrating empirical, theoretical, and methodological research, which I call the ***Human Firefly Trilogy***. The Trilogy is a series of three papers: 
