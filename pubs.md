@@ -62,7 +62,7 @@ How can multiple components form complex structure/dynamics on multiple levels/s
 [arXiv](https://arxiv.org/abs/1812.00423)
 > The theoretical model derived from experimental observations in the Human Firefly experiment reported in Zhang, Kelso, Tognoli (2018).
 
-* Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (2020). **Topological portraits of multiscale coordination dynamics"**. *Journal of Neuroscience Methods*, 339, 108672. 
+* Mengsen Zhang, William D. Kalies, J. A. Scott Kelso, Emmanuelle Tognoli (2020). **Topological portraits of multiscale coordination dynamics"**. *Journal of Neuroscience Methods*, 339(108672). 
 [pdf + SI](/docs/ZhangKKT2020_fireflyTDA_wSI.pdf) | [DOI](https://doi.org/10.1016/j.jneumeth.2020.108672) | [arXiv](https://arxiv.org/abs/1909.08809) | [Code](https://github.com/mengsenz/TopoDynamics) | [Talk](https://crowdcast.io/e/neuromatch/8)
 > Methodological paper on a topological approach to complex coordination patterns with multiple characteristic spatiotemporal scales. The method was based on exploratory analyses of single-trial dynamics recorded in the Human Firefly experiment.
 
@@ -74,10 +74,14 @@ Together, they make up my dissertation:
 
 More recent theoretical developments:
 
-* Joseph McKinley, Mengsen Zhang, Alice Wead, Christine Williams, Emmanuelle Tognoli, & Christopher Beetle (2021). Third party stabilization of unstable coordination in systems of coupled oscillators. Journal of Physics: Conference Series, 2090(1), 012167. 
-[DOI](https://doi.org/10.1088/1742-6596/2090/1/012167)
+* Joseph McKinley, Mengsen Zhang, Alice Wead, Christine Williams, Emmanuelle Tognoli, & Christopher Beetle (2021). **Third party stabilization of unstable coordination in systems of coupled oscillators**. *Journal of Physics: Conference Series*, 2090(1), 012167. 
+[pdf](/docs/McKinley_2021_thirdparty.pdf) | [DOI](https://doi.org/10.1088/1742-6596/2090/1/012167)
+> Continues the some theoretical questions posed by the model of Zhang et al (2019), in particular, how bistability in a pair of oscillators can be restored by bidirectional coupling to a third oscillator.
 
-A historical review:
+* Joseph McKinley, Mengsen Zhang, Alice Wead, Christine Williams, Emmanuelle Tognoli, & Christopher Beetle (*In prep*). **Restoration of coordination in systems of nonidentical oscillators through third-party pacing.**
+> A follow-up of McKinley et al (2021), addressing the case of symmetry breaking in frequnecy and coupling. More applicable to brain stimulation.
+
+A historical review of related models of rhythmic coordination:
 
 * Emmanuelle Tognoli, Mengsen Zhang, Armin Fuchs, Christopher Beetle, and J. A. Scott Kelso (2020). **Coordination Dynamics: A Foundation for Understanding Social Behavior**. *Frontiers in Human Neuroscience*, 14:317.
 [pdf](/docs/Tognoli2020_FoundationforSocialBehavior.pdf) | [DOI](https://www.frontiersin.org/article/10.3389/fnhum.2020.00317)
