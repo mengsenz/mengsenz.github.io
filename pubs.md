@@ -12,8 +12,7 @@ Publications are here organized by __topic__. See [CV](/docs/MengsenZhang_CV.pdf
 
 | [Other](#other-publications) |
 
-&dagger; : co-first author
-&Dagger; : co-last author
+&dagger; : co-first author | &Dagger; : co-last author
 
 ### Brain stimulation and causal roles of neural oscillations
 My work at UNC-Chapel Hill focuses on understanding the causal roles of neural oscillations across multiple scales, from neuronal spiking to behavioral dynamics, using various brain stimulation and computational techniques.
@@ -30,13 +29,13 @@ My work at UNC-Chapel Hill focuses on understanding the causal roles of neural o
 * Mengsen Zhang, Rachel Force, Christopher Walker, Sangtae Ahn, L Fredrik Jarskog & Flavio Fröhlich (*Under Review*). **Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial.**
 > My first clinical-trial paper showing how rhythmic alpha stimulation can be used to treat depressive symptom transdiagnostically. 
 
-* Lauren Sidelinger&dagger;, Mengsen Zhang&dagger;, Flavio Frohlich&Dagger;, & Stacey Daughters&Dagger;. **Day-to-Day individual alpha frequency stability measured by a mobile EEG device relates to anxiety and inhibition**.
+* Lauren Sidelinger &dagger;, Mengsen Zhang &dagger;, Flavio Frohlich &Dagger;, & Stacey Daughters &Dagger;. **Day-to-Day individual alpha frequency stability measured by a mobile EEG device relates to anxiety and inhibition**.
 > First paper by an undergraduate mentee (L.S.), associating the dynamics of individual alpha frequency with anxiety. Innovative work using mobile EEG device. 
 
 ### The geometry and topology of neural dynamics
 My work and continued collaboration at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
 
-* Mengsen Zhang&dagger;, Samir Chowdhury&dagger;, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+* Mengsen Zhang &dagger;, Samir Chowdhury &dagger;, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
 > A Mapper-inspired computational method to capture phase transitions in biophysical network models of and real human fMRI dynamics. This method differs from earlier Mapper-based topological data analysis methods by taking advantage of temporal information. 
 
 * Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function
