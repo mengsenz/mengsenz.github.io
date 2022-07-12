@@ -41,11 +41,11 @@ My work and continued collaboration at Stanford University involves developing l
 
 * Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function
 relationship in the brain**. *NeuroImage* 259(119401). 
-[pdf+SI](/docs/Zhang_2022_W3C_full) | [DOI](https://doi.org/10.1016/j.neuroimage.2022.119401) | [talk](https://youtu.be/8HJ42Kg-fTc)
+[pdf + SI](/docs/Zhang_2022_W3C_full.pdf) | [DOI](https://doi.org/10.1016/j.neuroimage.2022.119401) | [talk](https://youtu.be/8HJ42Kg-fTc)
 > A novel computational framework for characterizing brain dynamics as landmarks (attractors) of a multistable dynamic landscape. We show the relation between attractors better capture human brain functional connectivity patterns than any specific attractor. 
 
 * Mengsen Zhang and Manish Saggar (2020). **Complexity of resting brain dynamics shaped by multiscale structural constraints**. 
-[pdf + SI](/docs/Zhang_2020biorxiv_W3C) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.14.097196v2?versioned=true) 
+[pdf + SI](/docs/Zhang_2020biorxiv_W3C.pdf) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.14.097196v2?versioned=true) 
 > An earlier draft of Zhang, Sun & Saggar (2022) that may be read as a stand-alone theoretical paper, analyzing how the distribution of attractors is affected by various structural parameters. 
 
 * Yinming Sun, Mengsen Zhang, & Manish Saggar (*in prep*). Biophysical modeling of resting-state functional connectivity reveals insights into symptoms of psychopathology.
