@@ -4,7 +4,7 @@ Publications are here organized by __topic__. See [CV](/docs/MengsenZhang_CV.pdf
 
 | [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
 
-| [Geometry and Topology of Large-Scale Brain Dynamics](#geometry-and-topology-of-neural-dynamics) |
+| [Geometry and Topology of Large-Scale Brain Dynamics](#the-geometry-and-topology-of-neural-dynamics) |
 
 | [Multiagent Coordination Dynamics](#multiagent-coordination-dynamics) |
 
