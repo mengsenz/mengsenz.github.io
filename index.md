@@ -1,4 +1,4 @@
-[Publications](/pubs.md) | [CV](/docs/MengsenZhang_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=YfVxfjMAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mengsen_Zhang) | [Twitter](https://twitter.com/Mengsen) | [Contact](contact.md)
+[Publications](/pubs.md) | [CV](/docs/MengsenZhang_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=YfVxfjMAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mengsen_Zhang) | [Twitter](https://twitter.com/Mengsen) | [Contact](contact.md) | <a rel="me" href="https://mathstodon.xyz/@mengsen">Mastodon</a>
 
 ## Who am I
 <img src="./pics/HS1_SM.jpg" width ="260" align="right">Without getting into the biggest philosophical question, I am Mengsen Zhang, a Complex Systems scientist and neuroscientist. My long-term interest is to understand how simple (but no simpler) interaction between numerous components gives rise to complex systems with multiple characteristic scales, e.g., biological and social systems (...more: [Why Complexity](/complexity.md)). 
