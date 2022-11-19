@@ -27,15 +27,17 @@ My work at UNC-Chapel Hill focuses on understanding the causal roles of neural o
 > My first animal work (ferrets), using optogenetic stimulation to understand how alpha oscillations control cortical excitability -- a long-standing question in human non-invasive brain stimulation literature, for which this paper provides the cellular mechanism. 
 
 * Mengsen Zhang, Rachel Force, Christopher Walker, Sangtae Ahn, L Fredrik Jarskog & Flavio Fröhlich (*Under Review*). **Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial.**
-> My first clinical-trial paper showing how rhythmic alpha stimulation can be used to treat depressive symptom transdiagnostically. 
+[SfN22 poster](/docs/Zhang_SfN2022_STILL3.png)
+> My first clinical-trial paper showing how rhythmic alpha stimulation can be used to treat depressive symptom in people with schizophrenia. 
 
-* Lauren Sidelinger &dagger;, Mengsen Zhang &dagger;, Flavio Frohlich &Dagger;, & Stacey Daughters &Dagger;. **Day-to-Day individual alpha frequency stability measured by a mobile EEG device relates to anxiety and inhibition**.
+* Lauren Sidelinger &dagger;, Mengsen Zhang &dagger;, Flavio Frohlich &Dagger;, & Stacey Daughters &Dagger;(*Under Review*). **Day-to-Day individual alpha frequency stability measured by a mobile EEG device relates to anxiety and inhibition**.
 > First paper by an undergraduate mentee (L.S.), associating the dynamics of individual alpha frequency with anxiety. Innovative work using mobile EEG device. 
 
 ### The geometry and topology of neural dynamics
 My work and continued collaboration at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
 
-* Mengsen Zhang &dagger;, Samir Chowdhury &dagger;, and Manish Saggar (*to be submitted*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+* Mengsen Zhang &dagger;, Samir Chowdhury &dagger;, and Manish Saggar (*Under Review*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+[bioRxiv](https://doi.org/10.1101/2022.07.28.501877)
 > A Mapper-inspired computational method to capture phase transitions in biophysical network models of and real human fMRI dynamics. This method differs from earlier Mapper-based topological data analysis methods by taking advantage of temporal information. 
 
 * Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function
@@ -47,7 +49,8 @@ relationship in the brain**. *NeuroImage* 259(119401).
 [pdf + SI](/docs/Zhang_2020biorxiv_W3C.pdf) | [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.14.097196v2?versioned=true) 
 > An earlier draft of Zhang, Sun & Saggar (2022) that may be read as a stand-alone theoretical paper, analyzing how the distribution of attractors is affected by various structural parameters. 
 
-* Yinming Sun, Mengsen Zhang, & Manish Saggar (*in prep*). Biophysical modeling of resting-state functional connectivity reveals insights into symptoms of psychopathology.
+* Yinming Sun, Mengsen Zhang, & Manish Saggar (*Under Review*). Cross-attractor modeling of resting-state functional connectivity in psychiatric disorders reveals disturbances in excitation, inhibition, and energy gaps
+[bioRxiv](https://doi.org/10.1101/2022.10.29.514373)
 > A follow up work of Zhang, Sun & Saggar (2022) with clinical applications. 
 
 ### Multiagent Coordination Dynamics
