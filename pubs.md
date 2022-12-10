@@ -26,7 +26,7 @@ My work at UNC-Chapel Hill focuses on understanding the causal roles of neural o
 [pdf](/docs/Zhang2022_randomalpha.pdf) | [DOI](https://doi.org/10.1016/j.brs.2022.02.014)
 > My first animal work (ferrets), using optogenetic stimulation to understand how alpha oscillations control cortical excitability -- a long-standing question in human non-invasive brain stimulation literature, for which this paper provides the cellular mechanism. 
 
-* Mengsen Zhang, Rachel Force, Christopher Walker, Sangtae Ahn, L Fredrik Jarskog & Flavio Fröhlich (*Under Review*). **Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial.**
+* Mengsen Zhang, Rachel Force, Christopher Walker, Sangtae Ahn, L Fredrik Jarskog & Flavio Fröhlich (*Accepted*). **Alpha transcranial alternating current stimulation reduces depressive symptoms in people with schizophrenia and auditory hallucinations: a double-blind, randomized clinical trial.**
 [SfN22 poster](/docs/Zhang_SfN2022_STILL3.png)
 > My first clinical-trial paper showing how rhythmic alpha stimulation can be used to treat depressive symptom in people with schizophrenia. 
 
@@ -36,12 +36,11 @@ My work at UNC-Chapel Hill focuses on understanding the causal roles of neural o
 ### The geometry and topology of neural dynamics
 My work and continued collaboration at Stanford University involves developing large-scale biophysical network models and new computational topology/geometry techniques to characterize complex brain dynamics observed in human fMRI.
 
-* Mengsen Zhang &dagger;, Samir Chowdhury &dagger;, and Manish Saggar (*Under Review*). **The topology of time: Transition networks in simulated and real neural dynamics**.
+* Mengsen Zhang &dagger;, Samir Chowdhury &dagger;, and Manish Saggar (*Accepted*). **Temporal Mapper: Transition networks in simulated and real neural dynamics**.
 [bioRxiv](https://doi.org/10.1101/2022.07.28.501877)
 > A Mapper-inspired computational method to capture phase transitions in biophysical network models of and real human fMRI dynamics. This method differs from earlier Mapper-based topological data analysis methods by taking advantage of temporal information. 
 
-* Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function
-relationship in the brain**. *NeuroImage* 259(119401). 
+* Mengsen Zhang, Yinming Sun, and Manish Saggar (2022). **Cross-attractor repertoire provides new perspective on structure-function relationship in the brain**. *NeuroImage* 259(119401). 
 [pdf + SI](/docs/Zhang_2022_W3C_full.pdf) | [DOI](https://doi.org/10.1016/j.neuroimage.2022.119401) | [talk](https://youtu.be/8HJ42Kg-fTc)
 > A novel computational framework for characterizing brain dynamics as landmarks (attractors) of a multistable dynamic landscape. We show the relation between attractors better capture human brain functional connectivity patterns than any specific attractor. 
 
