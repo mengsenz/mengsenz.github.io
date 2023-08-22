@@ -2,8 +2,8 @@
 
 Mengsen Zhang
 ---
-mengsen_zhang@med.unc.edu
+mengsen@msu.edu
 
-Mary Ellen Jones Building
-116 Manning Drive 
-Chapel Hill, NC 27514
+1514 Engineering Building
+428 South Shaw Lane 
+Engineering Building, East Lansing, MI 48824
