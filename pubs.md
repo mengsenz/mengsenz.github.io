@@ -1,6 +1,8 @@
 [Back to main page](index.md) 
 # Publications
-Publications are here organized by __topic__. See [CV](/docs/MengsenZhang_CV.pdf) for a chronological list. 
+Please follow our latest work on the [lab website](http://www.multiscalecomplexity.com)!
+
+Publications before Fall 2023 are here organized by __topic__. See [CV](/docs/MengsenZhang_CV.pdf) for a chronological list. 
 
 | [Brain Stimulation](#brain-stimulation-and-causal-roles-of-neural-oscillations) | 
 
